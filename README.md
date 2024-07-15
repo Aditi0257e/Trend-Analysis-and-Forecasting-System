@@ -36,8 +36,7 @@ Based on the insights from user profiling and trend analysis, our system deliver
 
 Installation
 Clone the repository:
-git clone https://github.com/sayantani-12/unified_trend_driven_personalization_and_forecasting_system.git
-cd unified_trend_driven_personalization_and_forecasting_system
+git clone https://github.com/Aditi0257e/Trend-Analysis-and-Forecasting-System.git
 Create a virtual environment:
  python -m venv venv
  source venv/bin/activate  # On Windows use `venv\Scripts\activate`
